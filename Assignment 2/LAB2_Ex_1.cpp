@@ -2,7 +2,7 @@
 using namespace std;
 
 int  srch(int arr[],int a,int b){
-    int c=0;
+    int c=0;b
     for(int i=0;i<b;i++){
         if(arr[i]==a){
             return i+1;
